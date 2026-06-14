@@ -353,7 +353,3 @@ Các nền tảng Vibe Coding khác nhau có đặc điểm và workflow khác n
 | **[Minimax](https://agent.minimaxi.com/)** | Phù hợp người muốn xem toàn bộ quá trình AI tự động tìm và sửa lỗi, và học từ đó, nhưng tổng thể khá chậm và tốn Token. | Web-based    | Toàn bộ quá trình khá dài, AI sẽ nhiều lần tự động chạy test và sửa lỗi.                                |
 | **[Trae](https://www.trae.ai/)**           | Dành cho người có kinh nghiệm lập trình, muốn sử dụng tổ hợp desktop IDE + AI Agent, là công cụ nâng cao hiệu quả mạnh mẽ. | PC           | Cần cài đặt cục bộ và cấu hình môi trường, nhưng hiệu năng tốt hơn, phù hợp tiến hành dự án Vibe Coding dài hạn.              |
 | **[V0](https://v0.app/)**                  | Tối ưu cho người phi nhà phát triển muốn nhanh tạo hiệu ứng UI React, phù hợp sinh viên hướng frontend / thiết kế.  | Web-based    | Tập trung tạo UI React, cần phối hợp với nền tảng khác hoàn thành backend và xây dựng ứng dụng hoàn chỉnh.                  |
----
-title: 'So sanh 7 cong cu lap trinh AI'
-description: 'Danh gia thuc hanh cac nen tang Web Vibe Coding bang mot bai toan thong nhat, so sanh do de lam quen, kiem soat code va trien khai.'
----

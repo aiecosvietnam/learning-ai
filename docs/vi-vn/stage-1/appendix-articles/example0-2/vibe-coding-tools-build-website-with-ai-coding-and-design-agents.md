@@ -342,7 +342,3 @@ Khi bạn đã tải xuống file code từ Agent thiết kế, có thể di chu
 - **Kết quả:**
 
 ![](../../../../vi-vn/stage-1/appendix-articles/example0-2/images/image23.png)
----
-title: 'Lam website voi agent thiet ke va lap trinh'
-description: 'Tu y tuong den len song: dung agent thiet ke tao visual, sau do dung agent code tao website chay duoc voi workflow tai su dung.'
----
